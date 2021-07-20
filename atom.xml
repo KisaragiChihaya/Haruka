@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ハルカ from ナカシマ</title>
+  
+  
+  <link href="https://haruka.nakanishi.me/atom.xml" rel="self"/>
+  
+  <link href="https://haruka.nakanishi.me/"/>
+  <updated>2021-05-26T17:05:32.816Z</updated>
+  <id>https://haruka.nakanishi.me/</id>
+  
+  <author>
+    <name>中西 Nakanishi</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>西野 遥</title>
+    <link href="https://haruka.nakanishi.me/nishino-haruka-profile/"/>
+    <id>https://haruka.nakanishi.me/nishino-haruka-profile/</id>
+    <published>2021-04-04T16:00:00.000Z</published>
+    <updated>2021-05-26T17:05:32.816Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;网站的第一篇正式文章是人物设定，至于为什么写这个是来源于前段时间的经历：某日深夜突然醒来，发现一位少女坐在我身旁，顿时睡意全无，正准备起身询问，结果发现自己才刚刚睁开眼，原来是在梦中做了梦。起来之后一直念念不忘，最后决定靠着残存的记忆复原她的样子。在复原过程中擅自加了很多自</summary>
+        
+      
+    
+    
+    
+    <category term="设定" scheme="https://haruka.nakanishi.me/categories/%E8%AE%BE%E5%AE%9A/"/>
+    
+    
+    <category term="设定" scheme="https://haruka.nakanishi.me/tags/%E8%AE%BE%E5%AE%9A/"/>
+    
+    <category term="贝斯" scheme="https://haruka.nakanishi.me/tags/%E8%B4%9D%E6%96%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>はるか</title>
+    <link href="https://haruka.nakanishi.me/the-introduction-of-this-site/"/>
+    <id>https://haruka.nakanishi.me/the-introduction-of-this-site/</id>
+    <published>2021-03-24T16:00:00.000Z</published>
+    <updated>2021-07-20T05:58:46.775Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;こんにちは。&lt;/p&gt;
+&lt;p&gt;稍微说说这个网站是干嘛的。近日赋闲在家，总想写点什么，但又觉得不是很适合更新到博客上，于是特意架设了一个新网站，也算是“试验田”吧。新网站的名字叫“ハルカ”（遥），因为一直很喜欢这个名字，所以就用了。未来可能会在这边更新一些设定集或者短篇小说之类</summary>
+        
+      
+    
+    
+    
+    <category term="杂项" scheme="https://haruka.nakanishi.me/categories/%E6%9D%82%E9%A1%B9/"/>
+    
+    
+    <category term="介绍" scheme="https://haruka.nakanishi.me/tags/%E4%BB%8B%E7%BB%8D/"/>
+    
+  </entry>
+  
+</feed>
